@@ -17,7 +17,7 @@ my first mobile repository
 
 ## 创建node_modules文件夹
 
-1. 后续通过npm install的依赖将会自动安装到这个文件夹中
+1. 后续通过npm install的依赖将会自动安装到这个文件夹中（不需要操作）
 
 ## 配置产品环境以及开发环境的文件架构
 
